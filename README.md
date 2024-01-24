@@ -1,4 +1,12 @@
 # E-Bike_Case_Comptition_Presentation
+---
+🎉 My Team on Final Showcase Day
+---
+<img src="images/IMG_9544.jpg" alt="Not available, please contact the author." width="500">
+
+---
+Slides Deck
+---
 
 <img src="images/case_presentation_page-0001.jpg" alt="Not available, please contact the author.">
 <img src="images/case_presentation_page-0002.jpg" alt="Not available, please contact the author.">
